@@ -1,0 +1,7 @@
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+					"thumbnail":"",
+                    "caption":""
+                }
