@@ -36,6 +36,7 @@ if !($myWindowsPrincipal.IsInRole($adminRole))
    exit
 }
 
+#Gets Admin Privileges to install the service. This may not be needed. Could possibly be replaced by an installer.
 
 #TODO: Following code is completely wrong
 # Invoke-Expression .\EventLog.ps1
