@@ -1,0 +1,28 @@
+P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe.config
+P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.pdb
+P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\System.Management.Automation.dll
+P:\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.csprojResolveAssemblyReference.cache
+P:\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.ProjectInstaller.resources
+P:\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.csproj.GenerateResource.Cache
+P:\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.exe
+P:\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.pdb
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe.config
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.pdb
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\System.Management.Automation.dll
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.csprojResolveAssemblyReference.cache
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.Properties.Resources.resources
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.RemoteNotifyServiceInstaller.resources
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.csproj.GenerateResource.Cache
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.exe
+P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe.config
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.exe
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.csprojResolveAssemblyReference.cache
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.Properties.Resources.resources
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.RemoteNotifyServiceInstaller.resources
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\obj\Release\RemoteNotify.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+$RemoteNotifyLogsPath = "C:\RemoteNotify\Logs"
+$LogName = "NetworkConnectionsLog.csv"
+
+IF(!(Test-Path $($RemoteNotifyLogsPath + "\" + $LogName)))
+{
+    IF(!(Test-Path $RemoteNotifyLogsPath))
+    {
+        New-Item -ItemType directory $RemoteNotifyLogsPath
+    }
+    
+    New-Item -ItemType file -Path $RemoteNotifyLogsPath -Name $LogName
+    
+    #Populate the log file with current network connections
+    Get-WinEvent -FilterHashtable $WinRMFilter | Export-Csv $($RemoteNotifyLogsPath + "\" + $LogName) -NoTypeInformation
+}
+
+$CurrentLog = Import-Csv $($RemoteNotifyLogsPath + "\" + $LogName)
+$LatestConnections = 

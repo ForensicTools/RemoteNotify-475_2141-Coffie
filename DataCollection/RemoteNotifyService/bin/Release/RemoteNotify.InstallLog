@@ -1,0 +1,47 @@
+﻿Installing assembly 'P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Installing service RemoteNotify Service...
+Service RemoteNotify Service has been successfully installed.
+Creating EventLog source RemoteNotify Service in log Application...
+Committing assembly 'P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = P:\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Installing assembly 'P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Installing service RemoteNotify Service...
+Service RemoteNotify Service has been successfully installed.
+Creating EventLog source RemoteNotify Service in log Application...
+Committing assembly 'P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = P:\RemoteNotify-10.18.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Installing assembly 'C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Installing service RemoteNotify Service...
+Service RemoteNotify Service has been successfully installed.
+Creating EventLog source RemoteNotify Service in log Application...
+Committing assembly 'C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Uninstalling assembly 'C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.InstallLog
+   assemblypath = C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify\RemoteNotify\bin\Release\RemoteNotify.exe
+Removing EventLog source RemoteNotify Service.
+Service RemoteNotify Service is being removed from the system...
+Service RemoteNotify Service was successfully removed from the system.

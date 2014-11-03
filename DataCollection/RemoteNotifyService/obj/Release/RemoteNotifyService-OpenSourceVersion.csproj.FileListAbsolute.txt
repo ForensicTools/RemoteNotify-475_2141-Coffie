@@ -1,0 +1,12 @@
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Release\RemoteNotify.exe.config
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotify.exe
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Release\RemoteNotify.exe
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Release\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotifyService-OpenSourceVersion.csprojResolveAssemblyReference.cache
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotify.Properties.Resources.resources
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotify.RemoteNotifyServiceInstaller.resources
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotifyService-OpenSourceVersion.csproj.GenerateResource.Cache
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Release\RemoteNotify.exe.config
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotify.exe
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Release\RemoteNotify.pdb
