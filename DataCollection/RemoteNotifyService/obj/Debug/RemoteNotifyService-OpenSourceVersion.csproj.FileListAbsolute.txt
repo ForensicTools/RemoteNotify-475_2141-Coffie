@@ -1,0 +1,30 @@
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Debug\RemoteNotify.exe.config
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotify.exe
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Debug\RemoteNotify.exe
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Debug\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotifyService-OpenSourceVersion.csprojResolveAssemblyReference.cache
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotify.Properties.Resources.resources
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotify.RemoteNotifyServiceInstaller.resources
+C:\Users\Caleb Coffie\Google Drive\RemoteNotify-10.19.14-Work\RemoteNotify\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotifyService-OpenSourceVersion.csproj.GenerateResource.Cache
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotify-OpenSourceVersion\RemoteNotifyService\bin\Debug\RemoteNotify.exe.config
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotify.exe
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotify-OpenSourceVersion\RemoteNotifyService\obj\Debug\RemoteNotify.pdb
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\bin\Debug\RemoteNotify.exe.config
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.exe
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\bin\Debug\RemoteNotify.exe.config
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.exe
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.pdb
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotifyService-OpenSourceVersion.csprojResolveAssemblyReference.cache
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.Properties.Resources.resources
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.RemoteNotifyServiceInstaller.resources
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotifyService-OpenSourceVersion.csproj.GenerateResource.Cache
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\bin\Debug\RemoteNotify.exe
+C:\Users\Caleb Coffie\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\bin\Debug\RemoteNotify.pdb
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\bin\Debug\RemoteNotify.exe
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\bin\Debug\RemoteNotify.pdb
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotifyService-OpenSourceVersion.csprojResolveAssemblyReference.cache
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.Properties.Resources.resources
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotify.RemoteNotifyServiceInstaller.resources
+D:\Dropbox\RemoteNotify\OpenSourceVersion\DataCollection\RemoteNotifyService\obj\Debug\RemoteNotifyService-OpenSourceVersion.csproj.GenerateResource.Cache

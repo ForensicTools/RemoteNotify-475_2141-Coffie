@@ -1,0 +1,8 @@
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/obj/Debug/RemoteNotify.Properties.Resources.resources
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/obj/Debug/RemoteNotify.RemoteNotifyServiceInstaller.resources
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/bin/Debug/RemoteNotify.exe.mdb
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/bin/Debug/RemoteNotify.exe
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/obj/Debug/RemoteNotify.exe
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/obj/Debug/RemoteNotify.exe.mdb
+/Users/ccoffie/Google Drive/RemoteNotify-10.19.14-Work/RemoteNotify/RemoteNotify/RemoteNotify/bin/Debug/System.Management.Automation.dll
